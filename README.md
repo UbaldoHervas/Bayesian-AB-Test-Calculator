@@ -1,4 +1,4 @@
-# bayesian-ab-test-calculator
+# Bayesian-AB-test-calculator
 Simple Bayesian AB/n Test Calculator
 
 It's a pleasure to introduce this calculator, which allows you to easily calculate results from your AB tests using a Bayesian approach.
